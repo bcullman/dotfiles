@@ -1,0 +1,9 @@
+{
+  "params":{
+    "GIT_EXE": "",
+    "REPO_DIR": ""
+  },
+  "files": [
+    "~/.zshrc"
+  ]
+}
