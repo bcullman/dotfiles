@@ -1,8 +1,8 @@
 # Simple dotfile backup script
 
 ## Initial Setup
-1. Clone this repo. rename it, if you like.
-1. In the dotfiles-config.json file, set the paths to your git execututable, and to this repo.
+1. Clone this repo. Rename it, if you like.
+1. In the dotfiles-config.json file, set the paths to your git executable, and to this repo.
 1. In the dotfiles-config.json file, add the files and/or directories you want to backup
 1. run the script with `./dotfiles-sync.sh`
 
